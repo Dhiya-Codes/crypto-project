@@ -30,5 +30,8 @@ Make sure Python 3 is installed on your system.
 ### Step 2: Run the Program
 You can use IDLE or any code editor like VS Code. Then:
 
+# Output Screenshot
+https://github.com/Dhiya-Codes/crypto-project/blob/main/Screenshot%20(169).png?raw=true
+
 ```bash
 python crypto_project.py
